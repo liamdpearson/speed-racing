@@ -9,15 +9,17 @@ A real-time local multiplayer racing game built with sockets and threading. Play
 
 Written in **Python** using the **Arcade library v2.6.17**.
 
+Note: You musn't have a VPN active to play because it will mask your ipv4 address
+
 ## Features:
-1. Customizable Keybinds
-2. Other Player location prediction
-3. Robust server
-4. Multiple Cars
-5. Multiple Maps
+1. Customizable keybinds
+2. Other player location prediction
+3. Threaded TCP server
+4. Multiple cars
+5. Multiple maps
 6. Drifting
-7. Speed Boosts
-8. Slow Spots
+7. Speed boosts
+8. Slow spots
 9. Powerups
 10. Coins
 11. SFX
