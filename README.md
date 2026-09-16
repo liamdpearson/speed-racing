@@ -9,7 +9,7 @@ A real-time local multiplayer racing game built with sockets and threading. Play
 
 Written in **Python** using the **Arcade library v2.6.17**.
 
-Note: You musn't have a VPN active during play because it will mask your ipv4 address
+Note: You musn't have a VPN active during play because it will mask your ipv4 address.
 [Download on itch.io](https://ldpgames.itch.io/racing-game)
 
 ## Features:
